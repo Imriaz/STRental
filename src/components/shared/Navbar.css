@@ -1,0 +1,16 @@
+.navbar-bg-color{
+    background-color: rgba(59, 65, 150, 0.822);
+}
+
+.dash-bar{
+    color: white;
+    width: 100px;
+}
+
+.nav-btn{
+    border-radius: 10px;
+}
+
+.nav-btn:hover{
+    background: rgba(59, 65, 150, 0.822);
+}

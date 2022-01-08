@@ -10,14 +10,15 @@ const Banner = () => {
         <div className='banner-section'>
             <div>
                 <h1 className='banner-heading'>A single stop powerful platform for making renting out properties easier than ever</h1>
-                <p>Hassle free rental process from convience of your home</p>
+                <p className='text-white'>Hassle free rental process from convience of your home</p>
                 <br />
-                <button className='banner-button-1' type="button" class="btn btn-light">Get Started <i class="fas fa-long-arrow-alt-right"></i></button>
 
-                <button className='banner-button-2' type="button" class="btn btn-light"><i class="far fa-play-circle"></i>Play Video</button>
+                <button type="button" class="btn btn-light banner-button-1 m-2 ">Get Started <i class="fas fa-long-arrow-alt-right"></i></button>
+
+                <button className='btn btn-light banner-button-2 m-2' type="button"><i class="far fa-play-circle"></i>Play Video</button>
             </div>
 
-            <div class="">
+            <div class="banner-image-section">
                 <div class="row">
                     <div class="col-sm">
                         <img className='banner-img-1' src={banner1} alt="" />

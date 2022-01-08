@@ -1,11 +1,12 @@
 .banner-section{
-    background-color: aqua;
+    background-color: rgba(59, 65, 150, 0.822);
 }
 
 .banner-heading{
     padding-top: 166px;
     margin-bottom: 33px;
     padding-bottom: 10px;
+    color: white;
 }
 
 .banner-img-1{
@@ -22,9 +23,25 @@
     width: 350px;
 }
 
+.banner-image-section{
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
 .banner-img-3{
     height: 200px;
     /* height: 285px; */
     /* width: 427px; */
     width: 300px;
+}
+
+.banner-button-1{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.banner-button-2{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #524a78c4;
 }
