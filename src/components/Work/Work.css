@@ -1,0 +1,25 @@
+.work-container{
+    /* background-image: url('../../images/workbg.png'); */
+    background-color: #453D72;
+    background-image: url('../../images/Path\ 1@1X.png');
+    background-repeat: no-repeat;
+height: 760px;
+width: 1340px;
+}
+
+.work-img{
+    height: 200px;
+    width: 400px;
+    margin-top: 93px;
+    margin-right: 50px;
+}
+
+.work-text{
+    color: white;
+    margin-top: 94px;
+}
+
+.work-text-details{
+    color: white;
+    margin-top: 111px;
+}

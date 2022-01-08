@@ -1,0 +1,30 @@
+.banner-section{
+    background-color: aqua;
+}
+
+.banner-heading{
+    padding-top: 166px;
+    margin-bottom: 33px;
+    padding-bottom: 10px;
+}
+
+.banner-img-1{
+    /* height: 277px; */
+    height: 200px;
+    width: 300px;
+    /* width: 442px; */
+}
+
+.banner-img-2{
+    height: 250px;
+    /* height: 259px; */
+    /* width: 584px; */
+    width: 350px;
+}
+
+.banner-img-3{
+    height: 200px;
+    /* height: 285px; */
+    /* width: 427px; */
+    width: 300px;
+}
