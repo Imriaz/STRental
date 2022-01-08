@@ -1,0 +1,39 @@
+.WhySavvy-container{
+    background-color: rgba(255, 0, 0, 0.76);
+}
+
+.card-Img{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    /* width: 137px;
+    height: 135px; */
+}
+
+.card{
+    background-color: #524a782c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+.card-deck{
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 688px) {
+   
+    .card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 40px;
+        margin: 5px;
+        width: 170px;
+        height: 250px;
+    }
+}

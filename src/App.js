@@ -4,6 +4,8 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Work from './components/Work/Work';
 import Main from './components/Main/Main';
+import ContactUs from './components/ContactUs/ContactUs';
+import WhySavvy from './components/WhySavvy/WhySavvy';
 
 function App() {
   return (
@@ -21,6 +23,12 @@ function App() {
           </Route>
           <Route path="/work">
             <Work />
+          </Route>
+          <Route path="/contactus">
+            <ContactUs />
+          </Route>
+          <Route path="/WhySavvy">
+            <WhySavvy />
           </Route>
         </Switch>
       </Router>

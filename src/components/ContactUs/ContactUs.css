@@ -1,0 +1,13 @@
+.contact-us-section{
+    background-image: url('../../images/contactusbg.png');
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    background-color: #453D72;
+}
+
+.contact-form{
+    padding: 70px;
+    background-color: #524a78be;
+    border-radius: 25px;
+}
+

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -22,6 +23,8 @@ const Navbar = () => {
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
                             </li>
+                            {/* <Link style={{ textDecoration: 'none', color: 'black' }} to={'/work'}>Why Savvy
+                            </Link> */}
                         </ul>
                         <form class="d-flex">
                             <button class="btn btn-outline-success" type="submit">Let's Talk</button>
