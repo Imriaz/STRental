@@ -7,8 +7,8 @@ const Work = () => {
         <div class="work-container">
             <div class="row">
                 <div class="col-6">
-                    <h1 className='work-text'>What we do</h1>
-                    <p className='work-text-details'>Redesigning of an STR software
+                    <h1 className='work-text text-start p-3'>What we do</h1>
+                    <p className='work-text-details text-start p-3'>Redesigning of an STR software
                         i.e, which will help property owner to make the
                         short-term property rental process  completely
                         complaint  i.e making the process completely

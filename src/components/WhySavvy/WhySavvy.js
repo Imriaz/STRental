@@ -19,21 +19,21 @@ const WhySavvy = () => {
             <div className=''>
                 <div class="row card-deck">
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img1} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img1} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Saas services &
                                 technical support</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img2} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img2} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">24x7 Complaint
                                 Support</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img3} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img3} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Request
                                 Exception</h5>
@@ -41,35 +41,35 @@ const WhySavvy = () => {
                     </div>
 
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img4} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img4} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Location
                                 request</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img5} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img5} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Notification
                                 Alert</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img6} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img6} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Property
                                 Managment</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img7} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img7} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Administration
                                 Support</h5>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-6 card">
-                        <img class="card-img-top card-Img" src={img8} alt="Card image cap" />
+                        <img class="card-img-top card-Img" src={img8} alt="" />
                         <div class="card-body">
                             <h5 class="card-title mt-3">Multi-User
                                 Managment</h5>

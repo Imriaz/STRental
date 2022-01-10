@@ -1,5 +1,6 @@
 .WhySavvy-container{
-    background-color: rgba(255, 0, 0, 0.76);
+    background-color: rgba(255, 0, 0, 0.685);
+    padding-bottom: 50px;
 }
 
 .card-Img{
@@ -15,10 +16,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 40px;
+    border-radius: 60px;
     margin: 10px;
     width: 300px;
-    height: 250px;
+    height: 280px;
+}
+
+.card-title{
+    color:white;
 }
 
 .card-deck{

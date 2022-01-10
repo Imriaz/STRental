@@ -11,3 +11,21 @@
     border-radius: 25px;
 }
 
+.submit-button{
+    background-color: #957b92;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.form-control{
+    border-radius: 15px;
+}
+
+.message-box{
+    height: 80px;
+    width: 100%;
+}

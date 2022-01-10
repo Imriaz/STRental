@@ -35,12 +35,12 @@ const ContactUs = () => {
 
                     <div class="form-row">
                         <div class="form-group col-md-12">
-                            <input type="text" class="form-control" id="message" placeholder='Your Message' />
+                            <input type="text" class="form-control message-box" id="message" placeholder='Your Message' />
                         </div>
                     </div>
                     <br />
 
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary submit-button">Submit</button>
                 </form>
             </div>
             <div className='footer-icon'>
